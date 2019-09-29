@@ -1,1 +1,1 @@
-This is my sample code:w
+This is my sample code
